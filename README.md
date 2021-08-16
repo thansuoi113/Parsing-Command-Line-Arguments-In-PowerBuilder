@@ -8,3 +8,5 @@ Ex:
 	parsecmd.exe /A Avalue /B Bvalue /C Cvalue
 	parsecmd.exe -A "Avalue" --B Bvalue /C "Cvalue"
 	
+	
+shared from the website: https://programmingmethodsit.com
